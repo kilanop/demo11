@@ -7,7 +7,7 @@
 //
 
 import UIKit
-//FF7 Battle theme music remake (Epic fan made) aaa
+//FF7 Battle theme music remake (Epic fan made) aaaaaaa
 
 class presentVc: UIViewController {
     @IBOutlet weak var pic: UIImageView!
